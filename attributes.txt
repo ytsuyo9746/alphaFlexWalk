@@ -1,0 +1,4 @@
+n 12
+is_directed true
+is_dynamic false
+is_weighted false
